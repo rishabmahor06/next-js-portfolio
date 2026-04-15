@@ -1,23 +1,22 @@
 export const siteConfig = {
-  name: "Naman Barkiya - Applied AI Engineer",
-  authorName: "Naman Barkiya",
-  username: "namanbarkiya",
+  name: "Rishab Kumar - Applied AI Engineer",
+  authorName: "Rishab Kumar",
+  username: "rishabmahor06",
   description:
-    "Naman Barkiya - Applied AI Engineer working at the intersection of AI, data, and scalable software systems. Explore my projects, experience, and contributions in software development and AI.",
-  url: "https://nbarkiya.xyz",
+    "Rishab Kumar - Applied AI Engineer working at the intersection of AI, data, and scalable software systems. Explore my projects, experience, and contributions in software development and AI.",
+  url: "https://rishabmahor06.github.io",
+  githubUrl: "https://github.com/rishabmahor06",
   links: {
-    twitter: "https://x.com/namanbarkiya",
-    github: "https://github.com/namanbarkiya",
-    templateRepo: "https://github.com/namanbarkiya/minimal-next-portfolio",
+    twitter: "https://x.com/rishabmahor06",
+    github: "https://github.com/rishabmahor06",
+    templateRepo: "https://github.com/rishabmahor06/minimal-next-portfolio",
   },
   ogImage:
-    "https://res.cloudinary.com/dvt5vkfwz/image/upload/v1767384721/naman_portfolio_og_image.png",
-  iconIco:
-    "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357384/assets/naman-favicon.ico",
-  logoIcon:
-    "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357294/assets/naman-logo.png",
+    "https://res.cloudinary.com/dvt5vkfwz/image/upload/v1767384721/rishab_portfolio_og_image.png",
+  iconIco: "/profile-img.jpg",
+  logoIcon: "/profile-img.jpg",
   keywords: [
-    "Naman Barkiya",
+    "Rishab Kumar",
     "Applied AI Engineer",
     "AI Engineer",
     "Software Engineer",

@@ -36,7 +36,7 @@ export const experiences: ExperienceInterface[] = [
     ],
     skills: ["Typescript", "React", "Databricks", "Java", "Python"],
     companyUrl: "https://www.ubs.com",
-    logo: "/experience/keys-logo.png",
+    logo: "/experience/keys-logo.jpeg",
   },
   {
     id: "muze-ai",
@@ -58,7 +58,7 @@ export const experiences: ExperienceInterface[] = [
     ],
     skills: ["FastAPI", "Python", "AWS", "Next.js", "React", "Typescript"],
     companyUrl: "https://muzecmo.com",
-    logo: "/experience/muzeai-logo.png",
+    logo: "/experience/muzeai-logo.jpeg",
   },
   {
     id: "builtdesign",
@@ -87,6 +87,6 @@ export const experiences: ExperienceInterface[] = [
       "Javascript",
     ],
     companyUrl: "https://builtdesign.in",
-    logo: "/experience/builtdesign-logo.png",
+    logo: "/experience/builtdesign-logo.jpeg",
   },
 ];

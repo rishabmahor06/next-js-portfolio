@@ -35,8 +35,8 @@ export const Projects: ProjectInterface[] = [
     category: ["Web Dev", "Frontend", "UI/UX"],
     shortDescription:
       "Open-source Next.js portfolio template recognized and forked by developers worldwide, optimized for SEO/AEO and performance.",
-    websiteLink: "https://nbarkiya.xyz",
-    githubLink: "https://github.com/namanbarkiya/minimal-next-portfolio",
+    websiteLink: "https://rishabmahor06.github.io",
+    githubLink: "https://github.com/rishabmahor06/minimal-next-portfolio",
     techStack: [
       "Next.js",
       "React",
@@ -47,7 +47,7 @@ export const Projects: ProjectInterface[] = [
     ],
     startDate: new Date("2024-01-01"),
     endDate: new Date("2025-12-01"),
-    companyLogoImg: "/projects/portfolio/logo.png",
+    companyLogoImg: "/projects/portfolio/logo.jpeg",
     pagesInfoArr: [
       {
         title: "Landing & Sections",
@@ -78,13 +78,13 @@ export const Projects: ProjectInterface[] = [
     techStack: ["Next.js", "React", "Node.js", "Typescript", "Python"],
     startDate: new Date("2024-04-01"),
     endDate: new Date("2024-10-01"),
-    companyLogoImg: "/projects/convot/logo.png",
+    companyLogoImg: "/projects/convot/logo.jpeg",
     pagesInfoArr: [
       {
         title: "Ingestion & Retrieval",
         description:
           "Designed ingestion and retrieval pipelines supporting multiple content sources with secure tenant isolation.",
-        imgArr: ["/logo.png"],
+        imgArr: ["/logo.jpeg"],
       },
     ],
     descriptionDetails: {
@@ -107,29 +107,29 @@ export const Projects: ProjectInterface[] = [
     shortDescription:
       "Production-ready Next.js 15 template for developers and AI startups. Includes authentication, state management, beautiful UI components, and everything needed to build scalable SaaS applications.",
     websiteLink: "https://niya.nbarkiya.xyz",
-    githubLink: "https://github.com/namanbarkiya/niya-saas-template",
+    githubLink: "https://github.com/rishabmahor06/niya-saas-template",
     techStack: ["Next.js", "React", "Typescript", "Supabase", "Tailwind CSS"],
     startDate: new Date("2024-08-01"),
     endDate: new Date("2025-01-01"),
-    companyLogoImg: "/projects/niya/logo.png",
+    companyLogoImg: "/projects/niya/logo.jpeg",
     pagesInfoArr: [
       {
         title: "Landing Page",
         description:
           "Modern landing page showcasing the template features, tech stack, and pricing options.",
-        imgArr: ["/logo.png"],
+        imgArr: ["/logo.jpeg"],
       },
       {
         title: "Authentication System",
         description:
           "Complete authentication system with Supabase, protected routes, and role-based access control.",
-        imgArr: ["/logo.png"],
+        imgArr: ["/logo.jpeg"],
       },
       {
         title: "Dashboard & Components",
         description:
           "Beautiful UI components with Magic UI, Radix primitives, and comprehensive dashboard templates.",
-        imgArr: ["/logo.png"],
+        imgArr: ["/logo.jpeg"],
       },
     ],
     descriptionDetails: {
@@ -155,12 +155,12 @@ export const Projects: ProjectInterface[] = [
     category: ["Web Dev", "Frontend", "3D Modeling"],
     shortDescription:
       "Forged an immersive 3D Portfolio Card utilizing the prowess of Three.js and Blender, where art and technology converge in an interactive masterpiece.",
-    websiteLink: "https://card.namanbarkiya.xyz/",
-    githubLink: "https://github.com/namanbarkiya/3d-portfolio-card",
+    websiteLink: "https://card.rishabmahor06.xyz/",
+    githubLink: "https://github.com/rishabmahor06/3d-portfolio-card",
     techStack: ["React", "Javascript", "HTML 5", "CSS 3"],
     startDate: new Date("2022-03-01"),
     endDate: new Date("2022-07-01"),
-    companyLogoImg: "/projects/card/logo.png",
+    companyLogoImg: "/projects/card/logo.jpeg",
     pagesInfoArr: [
       {
         title: "Card Views",
@@ -216,13 +216,13 @@ export const Projects: ProjectInterface[] = [
     ],
     startDate: new Date("2023-06-01"),
     endDate: new Date("2023-12-01"),
-    companyLogoImg: "/logo.png",
+    companyLogoImg: "/logo.jpeg",
     pagesInfoArr: [
       {
         title: "Realtime Focus Sessions",
         description:
           "Built real-time focus sessions using sockets to help people stay accountable and productive.",
-        imgArr: ["/logo.png"],
+        imgArr: ["/logo.jpeg"],
       },
     ],
     descriptionDetails: {
@@ -255,7 +255,7 @@ export const Projects: ProjectInterface[] = [
     ],
     startDate: new Date("2021-07-01"),
     endDate: new Date("2022-07-01"),
-    companyLogoImg: "/projects/builtdesign/logo.png",
+    companyLogoImg: "/projects/builtdesign/logo.jpeg",
     pagesInfoArr: [
       {
         title: "Landing Page",
@@ -290,7 +290,7 @@ export const Projects: ProjectInterface[] = [
         title: "Admin Dashboard",
         description:
           "Powerful administrative interface for managing users, projects, and system settings",
-        imgArr: ["/projects/builtdesign/logo.png"],
+        imgArr: ["/projects/builtdesign/logo.jpeg"],
       },
     ],
     descriptionDetails: {
@@ -320,7 +320,7 @@ export const Projects: ProjectInterface[] = [
     techStack: ["React Native", "Node.js", "MongoDB", "Javascript"],
     startDate: new Date("2021-07-01"),
     endDate: new Date("2022-07-01"),
-    companyLogoImg: "/projects/superquotes/logo.png",
+    companyLogoImg: "/projects/superquotes/logo.jpeg",
     pagesInfoArr: [
       {
         title: "Quotes View Page",
@@ -381,11 +381,11 @@ export const Projects: ProjectInterface[] = [
     category: ["Mobile Dev", "Full Stack", "UI/UX"],
     shortDescription:
       "Developed a feature-rich mobile shopping application with admin panel, user authentication, and seamless product management using React Native and Firebase.",
-    githubLink: "https://github.com/namanbarkiya/apex-shopping-app",
+    githubLink: "https://github.com/rishabmahor06/apex-shopping-app",
     techStack: ["React Native", "Javascript", "Redux", "Node.js", "express.js"],
     startDate: new Date("2021-07-14"),
     endDate: new Date("2022-07-01"),
-    companyLogoImg: "/projects/apex/logo.png",
+    companyLogoImg: "/projects/apex/logo.jpeg",
     pagesInfoArr: [
       {
         title: "Splash Screen",
@@ -449,7 +449,7 @@ export const Projects: ProjectInterface[] = [
     techStack: ["Next.js", "React", "Node.js", "MongoDB", "Typescript"],
     startDate: new Date("2022-03-01"),
     endDate: new Date("2022-07-01"),
-    companyLogoImg: "/projects/builtdesign-blogs/logo.png",
+    companyLogoImg: "/projects/builtdesign-blogs/logo.jpeg",
     pagesInfoArr: [
       {
         title: "Blog Landing Page",
@@ -504,11 +504,11 @@ export const Projects: ProjectInterface[] = [
     category: ["Web Dev", "Frontend", "UI/UX"],
     shortDescription:
       "Created a dashboard project using React and Tailwind CSS, focusing on UI design and routing implementation.",
-    websiteLink: "https://cirql-ui.namanbarkiya.xyz/",
+    websiteLink: "https://cirql-ui.rishabmahor06.github.io/",
     techStack: ["React", "Tailwind CSS", "Google Auth"],
     startDate: new Date("2023-01-01"),
     endDate: new Date("2023-02-15"),
-    companyLogoImg: "/projects/cirql/logo.png",
+    companyLogoImg: "/projects/cirql/logo.jpeg",
     pagesInfoArr: [
       {
         title: "Dashboard Home",
@@ -547,12 +547,12 @@ export const Projects: ProjectInterface[] = [
     category: ["Web Dev", "UI/UX"],
     shortDescription:
       "Developed a user-friendly website for Inscript Hindi typing, addressing the need for a simple tool for Hindi writers to convey data digitally.",
-    websiteLink: "https://hindityping.namanbarkiya.xyz",
-    githubLink: "https://github.com/namanbarkiya/inscript-hindi-keyboard",
+    websiteLink: "https://hindityping.rishabmahor06.github.io",
+    githubLink: "https://github.com/rishabmahor06/inscript-hindi-keyboard",
     techStack: ["HTML 5", "CSS 3", "Javascript"],
     startDate: new Date("2022-05-01"),
     endDate: new Date("2022-06-15"),
-    companyLogoImg: "/projects/hindi-keyboard/logo.png",
+    companyLogoImg: "/projects/hindi-keyboard/logo.jpeg",
     pagesInfoArr: [
       {
         title: "Typing Interface",

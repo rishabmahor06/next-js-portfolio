@@ -10,7 +10,7 @@ readingTime: 7
 
 Ever thought your traditional business card could use a serious upgrade? Well, I sure did! Buckle up because I'm about to take you on a mind-bending journey into the world of creativity, innovation, and 3D magic. Welcome to the behind-the-scenes tale of my **Dynamic Portfolio Card** project — where Three.js meets Blender to transform a plain ol' business card into an interactive work of art. 🚀✨
 
-**Live Demo:** [card.nbarkiya.xyz](https://card.nbarkiya.xyz) · **Source Code:** [GitHub](https://github.com/namanbarkiya/3d-portfolio-card)
+**Live Demo:** [card.nbarkiya.xyz](https://card.nbarkiya.xyz) · **Source Code:** [GitHub](https://github.com/rishabmahor06/3d-portfolio-card)
 
 ---
 
@@ -45,7 +45,7 @@ Set up your `index.html` file. This is the canvas for the 3D scene and links to 
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/logo.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Card | Naman Barkiya</title>
+    <title>Card | Rishab Kumar</title>
   </head>
   <body>
     <canvas class="webgl"></canvas>
@@ -110,7 +110,7 @@ Before jumping back into the JavaScript, we need the actual 3D model:
 
 1. **Download the blend file** from [Google Drive assets](https://drive.google.com/drive/folders/1PD-ARQADycua4onoDrL_TAS8PtjiBr4-?usp=sharing)
 2. **Customize your card** — use the [Figma template](https://www.figma.com/file/HxFS1r0P6vvxzSMXpipOKk/3D-card-assets?type=design&node-id=0%3A1&mode=design&t=jhsZf7DikFaZknKb-1) to design your own card art
-3. In Blender, **replace `card.png` and `logo.png`** in the Shading section with your files
+3. In Blender, **replace `card.png` and `logo.jpeg`** in the Shading section with your files
 4. Adjust dimensions in the **UV Editing Section**
 5. **Export** the model as glTF 2.0 (`.glb`) format
 
@@ -143,7 +143,7 @@ const linkPos = {
     y: -1.06,
     z: 0.03,
     name: "ClickableCircle1",
-    link: "https://github.com/namanbarkiya",
+    link: "https://github.com/rishabmahor06",
   },
   circle2: {
     x: 0.05,
@@ -299,6 +299,6 @@ Grab the assets, customize the card with your own links and branding, and ship s
 ## Useful Links
 
 - 🌐 **Live Demo:** [card.nbarkiya.xyz](https://card.nbarkiya.xyz)
-- 💻 **Source Code:** [github.com/namanbarkiya/3d-portfolio-card](https://github.com/namanbarkiya/3d-portfolio-card)
+- 💻 **Source Code:** [github.com/rishabmahor06/3d-portfolio-card](https://github.com/rishabmahor06/3d-portfolio-card)
 - 🎨 **Figma Assets:** [Figma file](https://www.figma.com/file/HxFS1r0P6vvxzSMXpipOKk/3D-card-assets?type=design&node-id=0%3A1&mode=design&t=jhsZf7DikFaZknKb-1)
 - 📦 **Blender + Assets:** [Google Drive](https://drive.google.com/drive/folders/1PD-ARQADycua4onoDrL_TAS8PtjiBr4-?usp=sharing)

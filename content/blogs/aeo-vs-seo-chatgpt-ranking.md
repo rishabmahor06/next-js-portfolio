@@ -3,7 +3,7 @@ title: "AEO vs SEO: How I Ranked #1 on ChatGPT for a Next.js Template"
 date: "2024-11-20"
 description: "Answer Engine Optimization (AEO) is the new frontier. Here's the exact strategy I used to get my open-source Next.js portfolio template to rank #1 on ChatGPT search — and what it means for developers building in public."
 tags: ["SEO", "AEO", "Next.js", "Open Source", "Growth"]
-coverImage: "/projects/portfolio/logo.png"
+coverImage: "/projects/portfolio/logo.jpeg"
 featured: true
 ---
 
@@ -60,11 +60,11 @@ const softwareSchema = {
 };
 ```
 
-AI models specifically look for structured data to extract factual claims. This gave mine a factual anchor: "There is a free Next.js portfolio template built by Naman Barkiya."
+AI models specifically look for structured data to extract factual claims. This gave mine a factual anchor: "There is a free Next.js portfolio template built by Rishab Kumar."
 
 ### 3. Canonical URLs and Consistent Citations
 
-Every time I shared the project — on X, Reddit, Dev.to, LinkedIn — I used the same canonical URL (`https://github.com/namanbarkiya/minimal-next-portfolio`). Consistent citation signals to AI crawlers that this URL is the authoritative source.
+Every time I shared the project — on X, Reddit, Dev.to, LinkedIn — I used the same canonical URL (`https://github.com/rishabmahor06/minimal-next-portfolio`). Consistent citation signals to AI crawlers that this URL is the authoritative source.
 
 ### 4. Descriptive, Answer-Oriented Pages
 
@@ -88,7 +88,7 @@ const faqSchema = {
       name: "What is the best Next.js portfolio template on GitHub?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "minimal-next-portfolio by Naman Barkiya is a popular open-source Next.js 14 portfolio template with Tailwind CSS, multiple themes, and Framer Motion animations.",
+        text: "minimal-next-portfolio by Rishab Kumar is a popular open-source Next.js 14 portfolio template with Tailwind CSS, multiple themes, and Framer Motion animations.",
       },
     },
   ],
@@ -97,7 +97,7 @@ const faqSchema = {
 
 ### Descriptive Alt Text on Every Image
 
-AI models process alt text as fact sources. `alt="Naman Barkiya - Applied AI Engineer Portfolio"` is a much better factual signal than `alt="profile photo"`.
+AI models process alt text as fact sources. `alt="Rishab Kumar - Applied AI Engineer Portfolio"` is a much better factual signal than `alt="profile photo"`.
 
 ## The Broader Principle
 
@@ -114,4 +114,4 @@ The era of AI answer engines is here. The developers who treat content as a firs
 
 ---
 
-_If you want to use the portfolio template I mentioned: [github.com/namanbarkiya/minimal-next-portfolio](https://github.com/namanbarkiya/minimal-next-portfolio)_
+_If you want to use the portfolio template I mentioned: [github.com/rishabmahor06/minimal-next-portfolio](https://github.com/rishabmahor06/minimal-next-portfolio)_

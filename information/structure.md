@@ -118,7 +118,7 @@ This is the folder structure of the whole application
 │ │ │ ├── app_6.webp
 │ │ │ ├── app_7.webp
 │ │ │ ├── db.webp
-│ │ │ └── logo.png
+│ │ │ └── logo.jpeg
 │ │ ├── builtdesign
 │ │ │ ├── cli_dashboard_1.webp
 │ │ │ ├── cli_dashboard_2.webp
@@ -129,7 +129,7 @@ This is the folder structure of the whole application
 │ │ │ ├── landing_4.webp
 │ │ │ ├── landing_5.webp
 │ │ │ ├── landing_6.webp
-│ │ │ ├── logo.png
+│ │ │ ├── logo.jpeg
 │ │ │ └── pdf_opt.webp
 │ │ ├── builtdesign-blogs
 │ │ │ ├── blog_1.webp
@@ -137,26 +137,26 @@ This is the folder structure of the whole application
 │ │ │ ├── blog_3.webp
 │ │ │ ├── blog_4.webp
 │ │ │ ├── blog_5.webp
-│ │ │ └── logo.png
+│ │ │ └── logo.jpeg
 │ │ ├── card
 │ │ │ ├── card_1.webp
 │ │ │ ├── card_2.webp
 │ │ │ ├── card_3.webp
 │ │ │ ├── card_4.webp
-│ │ │ └── logo.png
+│ │ │ └── logo.jpeg
 │ │ ├── cirql
-│ │ │ ├── logo.png
+│ │ │ ├── logo.jpeg
 │ │ │ ├── web_1.png
 │ │ │ ├── web_2.png
 │ │ │ ├── web_3.png
 │ │ │ └── web_4.png
 │ │ ├── hindi-keyboard
-│ │ │ ├── logo.png
+│ │ │ ├── logo.jpeg
 │ │ │ ├── web_1.png
 │ │ │ ├── web_2.png
 │ │ │ └── web_3.png
 │ │ ├── supercareer
-│ │ │ └── logo.png
+│ │ │ └── logo.jpeg
 │ │ └── superquotes
 │ │ ├── app_1.webp
 │ │ ├── app_2.webp
@@ -165,8 +165,8 @@ This is the folder structure of the whole application
 │ │ ├── app_5.webp
 │ │ ├── app_6.webp
 │ │ ├── app_7.webp
-│ │ └── logo.png
-│ ├── logo.png
+│ │ └── logo.jpeg
+│ ├── logo.jpeg
 │ ├── profile-img.jpg
 │ ├── next.svg
 │ └── vercel.svg

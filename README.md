@@ -1,4 +1,4 @@
-<a href="https://buymeachai.ezee.li/namanbarkiya" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dvt5vkfwz/image/upload/v1767625332/buy_chai_naman.png" alt="Buy Me A Chai" width="200"></a>
+<a href="https://buymeachai.ezee.li/rishabmahor06" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dvt5vkfwz/image/upload/v1767625332/buy_chai_naman.png" alt="Buy Me A Chai" width="200"></a>
 
 # Next.js 16 Developer Portfolio Template
 
@@ -23,7 +23,7 @@ A modern, responsive, and SEO-optimized **Next.js 16 portfolio template** design
 
 View the live demo at [https://nbarkiya.xyz/](https://nbarkiya.xyz)
 
-https://github.com/namanbarkiya/minimal-next-portfolio/assets/82203888/f93bf5ca-c2bd-4fe5-a413-1050ebf6cf78
+https://github.com/rishabmahor06/minimal-next-portfolio/assets/82203888/f93bf5ca-c2bd-4fe5-a413-1050ebf6cf78
 
 ## Ranks #1 on AI Search (top-notch AEO/GEO)
 
@@ -47,7 +47,7 @@ To get started with your own portfolio website:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/namanbarkiya/minimal-next-portfolio.git my-portfolio
+   git clone https://github.com/rishabmahor06/minimal-next-portfolio.git my-portfolio
    cd my-portfolio
    ```
 
@@ -114,8 +114,8 @@ Built-in SEO features with proper meta tags, structured data, and semantic HTML.
 
 ## 📱 Performance and Responsiveness
 
-![best-portfolio-website-score](https://github.com/namanbarkiya/minimal-next-portfolio/assets/82203888/3fb9c94d-9d99-4e98-92ea-14aadc91b568)
-![100-score-vercel](https://github.com/namanbarkiya/minimal-next-portfolio/assets/82203888/7cfe28cc-b619-4199-9dab-1cf16723b86d)
+![best-portfolio-website-score](https://github.com/rishabmahor06/minimal-next-portfolio/assets/82203888/3fb9c94d-9d99-4e98-92ea-14aadc91b568)
+![100-score-vercel](https://github.com/rishabmahor06/minimal-next-portfolio/assets/82203888/7cfe28cc-b619-4199-9dab-1cf16723b86d)
 
 This template is optimized for:
 
@@ -131,7 +131,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgements
 
 - Design inspired by modern portfolio best practices
-- Built by [Naman Barkiya](https://github.com/namanbarkiya)
+- Built by [Rishab Kumar](https://github.com/rishabmahor06)
 - Icons from [Lucide](https://lucide.dev/)
 
 ## 💻 Deploy on Vercel
@@ -142,8 +142,8 @@ Check out the [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=namanbarkiya/minimal-next-portfolio&type=Date)](https://star-history.com/#namanbarkiya/minimal-next-portfolio&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=rishabmahor06/minimal-next-portfolio&type=Date)](https://star-history.com/#rishabmahor06/minimal-next-portfolio&Date)
 
 ---
 
-**Built with ❤️ by [Naman Barkiya](https://github.com/namanbarkiya)**
+**Built with ❤️ by [Rishab Kumar](https://github.com/rishabmahor06)**

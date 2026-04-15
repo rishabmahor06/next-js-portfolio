@@ -12,7 +12,7 @@ I wrote the same backend boilerplate five times. Authentication middleware, rate
 
 So I extracted it into **Niya FastAPI Template** — a production-ready FastAPI starter that gives you everything you need to build scalable backends without the infrastructure setup. Clone it, add your Supabase credentials, and you have a fully authenticated, rate-limited API running in 10 minutes.
 
-**Repo:** [github.com/namanbarkiya/niya-fastapi-template](https://github.com/namanbarkiya/niya-fastapi-template)
+**Repo:** [github.com/rishabmahor06/niya-fastapi-template](https://github.com/rishabmahor06/niya-fastapi-template)
 
 ---
 
@@ -125,12 +125,12 @@ These numbers are from a real deployment serving actual traffic. The connection 
 
 Niya ships with comprehensive docs — not just a README:
 
-- **[API Reference](https://github.com/namanbarkiya/niya-fastapi-template/blob/master/docs/API_REFERENCE.md)** — every endpoint, request/response format, auth requirements
-- **[Postman Setup Guide](https://github.com/namanbarkiya/niya-fastapi-template/blob/master/docs/POSTMAN_SETUP_GUIDE.md)** — import and test in 2 minutes
-- **[API Testing Guide](https://github.com/namanbarkiya/niya-fastapi-template/blob/master/docs/API_TESTING_GUIDE.md)** — strategies for unit, integration, and e2e tests
-- **[Quick Reference](https://github.com/namanbarkiya/niya-fastapi-template/blob/master/docs/API_QUICK_REFERENCE.md)** — cheat sheet for common operations
-- **[Architecture Guide](https://github.com/namanbarkiya/niya-fastapi-template/blob/master/ARCHITECTURE.md)** — why the code is structured the way it is
-- **[New Feature Guide](https://github.com/namanbarkiya/niya-fastapi-template/blob/master/NEW_FEATURE_GUIDE.md)** — step-by-step instructions for extending the template
+- **[API Reference](https://github.com/rishabmahor06/niya-fastapi-template/blob/master/docs/API_REFERENCE.md)** — every endpoint, request/response format, auth requirements
+- **[Postman Setup Guide](https://github.com/rishabmahor06/niya-fastapi-template/blob/master/docs/POSTMAN_SETUP_GUIDE.md)** — import and test in 2 minutes
+- **[API Testing Guide](https://github.com/rishabmahor06/niya-fastapi-template/blob/master/docs/API_TESTING_GUIDE.md)** — strategies for unit, integration, and e2e tests
+- **[Quick Reference](https://github.com/rishabmahor06/niya-fastapi-template/blob/master/docs/API_QUICK_REFERENCE.md)** — cheat sheet for common operations
+- **[Architecture Guide](https://github.com/rishabmahor06/niya-fastapi-template/blob/master/ARCHITECTURE.md)** — why the code is structured the way it is
+- **[New Feature Guide](https://github.com/rishabmahor06/niya-fastapi-template/blob/master/NEW_FEATURE_GUIDE.md)** — step-by-step instructions for extending the template
 
 Plus a **ready-to-import Postman collection** with environment variables pre-configured.
 
@@ -140,7 +140,7 @@ Plus a **ready-to-import Postman collection** with environment variables pre-con
 
 ```bash
 # Clone
-git clone https://github.com/namanbarkiya/niya-fastapi-template.git
+git clone https://github.com/rishabmahor06/niya-fastapi-template.git
 cd niya-fastapi
 
 # Virtual environment
@@ -164,7 +164,7 @@ Open `http://localhost:8000/docs` — you'll see your fully documented, authenti
 
 ## Niya Frontend + Backend: The Full Stack
 
-Niya FastAPI is designed to pair perfectly with the [Niya SaaS Template](https://github.com/namanbarkiya/niya-saas-template) (Next.js frontend). Together, they give you:
+Niya FastAPI is designed to pair perfectly with the [Niya SaaS Template](https://github.com/rishabmahor06/niya-saas-template) (Next.js frontend). Together, they give you:
 
 - **Frontend**: Next.js 15, Supabase Auth, Zustand, React Query, Magic UI
 - **Backend**: FastAPI, Supabase, rate limiting, clean architecture
@@ -174,4 +174,4 @@ Clone both, point them at the same Supabase project, and you have a full-stack S
 
 ---
 
-**Star it if it's useful:** [github.com/namanbarkiya/niya-fastapi-template](https://github.com/namanbarkiya/niya-fastapi-template)
+**Star it if it's useful:** [github.com/rishabmahor06/niya-fastapi-template](https://github.com/rishabmahor06/niya-fastapi-template)

@@ -33,8 +33,10 @@ import {
   User,
   X,
   Zap,
+  Instagram
 } from "lucide-react";
 import { AiFillStar } from "react-icons/ai";
+import { FaInstagram } from "react-icons/fa";
 import { BiLaugh, BiSolidUser } from "react-icons/bi";
 import { BsInfoCircle, BsQuestionCircle } from "react-icons/bs";
 import {
@@ -130,6 +132,7 @@ export const Icons = {
   linkedin: SiLinkedin,
   userFill: BiSolidUser,
   work: HiBriefcase,
+  instagram: FaInstagram,
   gitHub: ({ ...props }: LucideProps) => (
     <svg
       aria-hidden="true"
